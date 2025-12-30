@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Attendance Saver by Syntax Society",
+  "description": "A smart attendance management system featuring AI-powered timetable parsing, face recognition, analytics, and a bunk calculator.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
